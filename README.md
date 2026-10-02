@@ -17,100 +17,100 @@ I also highly recommend his second set of [older labs](https://www.youtube.com/w
 **# Course Notes:**
 
 Network Fundamentals
--  Day1.  [Networking Devices](<!-- https://github.com/psaumur/CCNA/blob/main/Course_Notes/Network_Devices.md -->)
--  Day2.  [Interfaces And Cables](<!-- https://github.com/psaumur/CCNA/blob/main/Course_Notes/Interfaces_and_Cables.md -->)
--  Day3.  [OSI Model and TCP/IP Suite](<!-- https://github.com/psaumur/CCNA/blob/main/Course_Notes/OSI_Model_TCPSuite.md -->)
--  Day4.  [Intro to the CLI](<!-- https://github.com/psaumur/CCNA_Course_Notes/blob/main/Course_Notes/Intro_to_CLI.md -->)
--  Day5.  [Ethernet LAN Switching - Part 1](<!-- https://github.com/psaumur/CCNA/blob/main/Course_Notes/Ethernet_LAN_Switching_Part1.md -->)
--  Day6.  [Ethernet LAN Switching - Part 2](<!-- https://github.com/psaumur/CCNA/blob/main/Course_Notes/Ethernet_LAN_Switching_Part2.md -->)
+-  Day1.  [Networking Devices](https://github.com/jcapn/CCNA-Prep/blob/main/JITL-Lectures/day01-network-devices.md)
+-  Day2.  [Interfaces And Cables](https://github.com/jcapn/CCNA-Prep/blob/main/JITL-Lectures/day02-interfaces-and-cables.md)
+-  Day3.  [OSI Model and TCP/IP Suite](https://github.com/jcapn/CCNA-Prep/blob/main/JITL-Lectures/day03-osi-model-and-tcp-ip-suite.md)
+-  Day4.  [Intro to the CLI](https://github.com/jcapn/CCNA-Prep/blob/main/JITL-Lectures/day04-intro-to-the-cli.md)
+-  Day5.  [Ethernet LAN Switching - Part 1](https://github.com/jcapn/CCNA-Prep/blob/main/JITL-Lectures/day05-ethernet-lan-switching-part-1.md)
+-  Day6.  [Ethernet LAN Switching - Part 2](https://github.com/jcapn/CCNA-Prep/blob/main/JITL-Lectures/day06-ethernet-lan-switching-part-2.md)
 
 IPv4
--  Day7.  [IPv4 Addressing - Part 1](<!-- https://github.com/psaumur/CCNA/blob/main/Course_Notes/IPv4_Addressing_Part1.md -->)
--  Day8.  [IPv4 Addressing - Part 2](<!-- https://github.com/psaumur/CCNA/blob/main/Course_Notes/IPv4_Addressing_Part2.md -->)
--  Day9.  [Switch Interfaces](<!-- https://github.com/psaumur/CCNA/blob/main/Course_Notes/Switch_Interfaces.md -->)
--  Day10.  [The IPv4 Header](<!-- https://github.com/psaumur/CCNA/blob/main/Course_Notes/The_IPv4_Header.md -->)
+-  Day7.  [IPv4 Addressing - Part 1](https://github.com/jcapn/CCNA-Prep/blob/main/JITL-Lectures/day07-ipv4-addressing-part-1.md)
+-  Day8.  [IPv4 Addressing - Part 2](https://github.com/jcapn/CCNA-Prep/blob/main/JITL-Lectures/day08-ipv4-addressing-part-2.md)
+-  Day9.  [Switch Interfaces](https://github.com/jcapn/CCNA-Prep/blob/main/JITL-Lectures/day09-switch-interfaces.md)
+-  Day10.  [The IPv4 Header](https://github.com/jcapn/CCNA-Prep/blob/main/JITL-Lectures/day10-the-ipv4-header.md)
 
 Routing Fundamentals
--  Day11.  [Routing Fundamentals - Part 1](<!-- https://github.com/psaumur/CCNA/blob/main/Course_Notes/Routing_Fundamentals_Part1.md -->)
--  Day11.  [Static Routing - Part 2](<!-- https://github.com/psaumur/CCNA/blob/main/Course_Notes/Static_Routing_Part2.md -->)
--  Day12.  [Life of a Packet](<!-- https://github.com/psaumur/CCNA/blob/main/Course_Notes/Life_of_a_Packet.md -->)
+-  Day11.  [Routing Fundamentals - Part 1](https://github.com/jcapn/CCNA-Prep/blob/main/JITL-Lectures/day11-routing-fundamentals-part-1.md)
+-  Day11.  [Static Routing - Part 2](https://github.com/jcapn/CCNA-Prep/blob/main/JITL-Lectures/day11-static-routing-part-2.md)
+-  Day12.  [Life of a Packet](https://github.com/jcapn/CCNA-Prep/blob/main/JITL-Lectures/day12-life-of-a-packet.md)
 
 Subnetting
--  Day13.  [Subnetting - Part 1](<!-- https://github.com/psaumur/CCNA/blob/main/Course_Notes/Subnetting_Part1.md -->)
--  Day14.  [Subnetting - Part 2](<!-- https://github.com/psaumur/CCNA/blob/main/Course_Notes/Subnetting_Part2.md -->)
--  Day15.  [Subnetting (VLSM) - Part 3](<!-- https://github.com/psaumur/CCNA/blob/main/Course_Notes/Subnetting_VLSM_Part3.md -->)
+-  Day13.  [Subnetting - Part 1](https://github.com/jcapn/CCNA-Prep/blob/main/JITL-Lectures/day13-subnetting-part-1.md)
+-  Day14.  [Subnetting - Part 2](https://github.com/jcapn/CCNA-Prep/blob/main/JITL-Lectures/day14-subnetting-part-2.md)
+-  Day15.  [Subnetting (VLSM) - Part 3](https://github.com/jcapn/CCNA-Prep/blob/main/JITL-Lectures/day15-subnetting-vlsm-part-3.md)
 
 VLANS and Inter-VLAN Routing
--  Day16.  [VLANS - Part 1](<!-- https://github.com/psaumur/CCNA/blob/main/Course_Notes/VLAN_Part1.md -->)
--  Day17.  [VLANS - Part 2](<!-- https://github.com/psaumur/CCNA/blob/main/Course_Notes/VLAN_Part2.md -->)
--  Day18.  [VLANS - Part 3](<!-- https://github.com/psaumur/CCNA/blob/main/Course_Notes/VLAN_Part3.md -->)
--  Day19.  [DTP / VTP](<!-- https://github.com/psaumur/CCNA/blob/main/Course_Notes/DTP_VTP.md -->)
+-  Day16.  [VLANS - Part 1](https://github.com/jcapn/CCNA-Prep/blob/main/JITL-Lectures/day16-vlans-part-1.md)
+-  Day17.  [VLANS - Part 2](https://github.com/jcapn/CCNA-Prep/blob/main/JITL-Lectures/day17-vlans-part-2.md)
+-  Day18.  [VLANS - Part 3](https://github.com/jcapn/CCNA-Prep/blob/main/JITL-Lectures/day18-vlans-part-3.md)
+-  Day19.  [DTP / VTP](https://github.com/jcapn/CCNA-Prep/blob/main/JITL-Lectures/day19-dtp-vtp.md)
 
 STP and EtherChannel
--  Day20.  [Spanning Tree Protocol - Part 1](<!-- https://github.com/psaumur/CCNA/blob/main/Course_Notes/Spanning_Tree_Protocol_Part1.md -->)
--  Day21.  [Spanning Tree Protocol - Part 2](<!-- https://github.com/psaumur/CCNA/blob/main/Course_Notes/Spanning_Tree_Protocol_Part2.md -->)
--  Day22.  [Rapid Spanning Tree Protocol](<!-- https://github.com/psaumur/CCNA/blob/main/Course_Notes/Rapid_Spanning_Tree_Protocol.md -->)
--  Day23.  [Etherchannel](<!-- https://github.com/psaumur/CCNA/blob/main/Course_Notes/Etherchannel.md -->)
+-  Day20.  [Spanning Tree Protocol - Part 1](https://github.com/jcapn/CCNA-Prep/blob/main/JITL-Lectures/day20-spanning-tree-protocol-part-1.md)
+-  Day21.  [Spanning Tree Protocol - Part 2](https://github.com/jcapn/CCNA-Prep/blob/main/JITL-Lectures/day21-spanning-tree-protocol-part-2.md)
+-  Day22.  [Rapid Spanning Tree Protocol](https://github.com/jcapn/CCNA-Prep/blob/main/JITL-Lectures/day22-rapid-spanning-tree-protocol.md)
+-  Day23.  [Etherchannel](https://github.com/jcapn/CCNA-Prep/blob/main/JITL-Lectures/day23-etherchannel.md)
 
 Dynamic Routing and OSPF
--  Day24.  [Dynamic Routing](<!-- https://github.com/psaumur/CCNA/blob/main/Course_Notes/DynamicRouting.md -->)
--  Day25.  [RIP / EIGRP](<!-- https://github.com/psaumur/CCNA/blob/main/Course_Notes/RIP_and_EIGRP.md -->)
--  Day26.  [OSPF - Part 1](<!-- https://github.com/psaumur/CCNA/blob/main/Course_Notes/OSPF_Part1.md -->)
--  Day27.  [OSPF - Part 2](<!-- https://github.com/psaumur/CCNA/blob/main/Course_Notes/OSPF_Part2.md -->)
--  Day28.  [OSPF - Part 3](<!-- https://github.com/psaumur/CCNA/blob/main/Course_Notes/OSPF_Part3.md -->)
--  Day29.  [First Hop Redundancy Protocol](<!-- https://github.com/psaumur/CCNA/blob/main/Course_Notes/First_Hop_Redundancy_Protocols.md -->)
+-  Day24.  [Dynamic Routing](https://github.com/jcapn/CCNA-Prep/blob/main/JITL-Lectures/day24-dynamic-routing.md)
+-  Day25.  [RIP / EIGRP](https://github.com/jcapn/CCNA-Prep/blob/main/JITL-Lectures/day25-rip-eigrp.md)
+-  Day26.  [OSPF - Part 1](https://github.com/jcapn/CCNA-Prep/blob/main/JITL-Lectures/day26-ospf-part-1.md)
+-  Day27.  [OSPF - Part 2](https://github.com/jcapn/CCNA-Prep/blob/main/JITL-Lectures/day27-ospf-part-2.md)
+-  Day28.  [OSPF - Part 3](https://github.com/jcapn/CCNA-Prep/blob/main/JITL-Lectures/day28-ospf-part-3.md)
+-  Day29.  [First Hop Redundancy Protocol](https://github.com/jcapn/CCNA-Prep/blob/main/JITL-Lectures/day29-first-hop-redundancy-protocol.md)
 
 Transport and IPv6
--  Day30.  [TCP and UDP](<!-- https://github.com/psaumur/CCNA/blob/main/Course_Notes/TCP_and_UDP.md -->)
--  Day31.  [IPv6 - Part 1](<!-- https://github.com/psaumur/CCNA/blob/main/Course_Notes/IPv6_Part1.md -->)
--  Day32.  [IPv6 - Part 2](<!-- https://github.com/psaumur/CCNA/blob/main/Course_Notes/IPv6_Part2.md -->)
--  Day33.  [IPv6 - Part 3](<!-- https://github.com/psaumur/CCNA/blob/main/Course_Notes/IPv6_Part3.md -->)
+-  Day30.  [TCP and UDP](https://github.com/jcapn/CCNA-Prep/blob/main/JITL-Lectures/day30-tcp-and-udp.md)
+-  Day31.  [IPv6 - Part 1](https://github.com/jcapn/CCNA-Prep/blob/main/JITL-Lectures/day31-ipv6-part-1.md)
+-  Day32.  [IPv6 - Part 2](https://github.com/jcapn/CCNA-Prep/blob/main/JITL-Lectures/day32-ipv6-part-2.md)
+-  Day33.  [IPv6 - Part 3](https://github.com/jcapn/CCNA-Prep/blob/main/JITL-Lectures/day33-ipv6-part-3.md)
 
 ACLs
--  Day34.  [Standard Access Control List](<!-- https://github.com/psaumur/CCNA/blob/main/Course_Notes/Standard_Access_Control_Lists.md -->)
--  Day35.  [Extended Access Control List](<!-- https://github.com/psaumur/CCNA/blob/main/Course_Notes/Extended_Access_Control_Lists.md -->)
+-  Day34.  [Standard Access Control List](https://github.com/jcapn/CCNA-Prep/blob/main/JITL-Lectures/day34-standard-access-control-list.md)
+-  Day35.  [Extended Access Control List](https://github.com/jcapn/CCNA-Prep/blob/main/JITL-Lectures/day35-extended-access-control-list.md)
 
 Network Service and Management
--  Day36.  [CDP and LLDP](<!-- https://github.com/psaumur/CCNA/blob/main/Course_Notes/CDP_and_LLDP.md -->)
--  Day37.  [NTP - Network Time Protocol](<!-- https://github.com/psaumur/CCNA/blob/main/Course_Notes/NTP.md -->)
--  Day38.  [DNS - Domain Name System](<!-- https://github.com/psaumur/CCNA/blob/main/Course_Notes/DNS.md -->)
--  Day39.  [DHCP - Dynamic Host Configuration Protocol](<!-- https://github.com/psaumur/CCNA/blob/main/Course_Notes/DHCP.md -->)
--  Day40.  [SNMP - Simple Network Management Protocol](<!-- https://github.com/psaumur/CCNA/blob/main/Course_Notes/SNMP.md -->)
--  Day41.  [SYSLOG](<!-- https://github.com/psaumur/CCNA/blob/main/Course_Notes/SYSLOG.md -->)
--  Day42.  [SSH - Secure Shell](<!-- https://github.com/psaumur/CCNA/blob/main/Course_Notes/SSH.md -->)
--  Day43.  [FTP and TFTP](<!-- https://github.com/psaumur/CCNA/blob/main/Course_Notes/FTP_and_TFTP.md -->)
+-  Day36.  [CDP and LLDP](https://github.com/jcapn/CCNA-Prep/blob/main/JITL-Lectures/day36-cdp-and-lldp.md)
+-  Day37.  [NTP - Network Time Protocol](https://github.com/jcapn/CCNA-Prep/blob/main/JITL-Lectures/day37-ntp-network-time-protocol.md)
+-  Day38.  [DNS - Domain Name System](https://github.com/jcapn/CCNA-Prep/blob/main/JITL-Lectures/day38-dns-domain-name-system.md)
+-  Day39.  [DHCP - Dynamic Host Configuration Protocol](https://github.com/jcapn/CCNA-Prep/blob/main/JITL-Lectures/day39-dhcp-dynamic-host-configuration-protocol.md)
+-  Day40.  [SNMP - Simple Network Management Protocol](https://github.com/jcapn/CCNA-Prep/blob/main/JITL-Lectures/day40-snmp-simple-network-management-protocol.md)
+-  Day41.  [SYSLOG](https://github.com/jcapn/CCNA-Prep/blob/main/JITL-Lectures/day41-syslog.md)
+-  Day42.  [SSH - Secure Shell](https://github.com/jcapn/CCNA-Prep/blob/main/JITL-Lectures/day42-ssh-secure-shell.md)
+-  Day43.  [FTP and TFTP](https://github.com/jcapn/CCNA-Prep/blob/main/JITL-Lectures/day43-ftp-and-tftp.md)
 
 NAT and QOS
--  Day44.  [NAT (Static) - Part 1](<!-- https://github.com/psaumur/CCNA/blob/main/Course_Notes/NAT_Static_Part1.md -->)
--  Day45.  [NAT (Dynamic) - Part 2](<!-- https://github.com/psaumur/CCNA/blob/main/Course_Notes/NAT_Dynamic_Part2.md -->)
--  Day46.  [QoS (Voice VLAN) - Part 1](<!-- https://github.com/psaumur/CCNA/blob/main/Course_Notes/QoS_VoiceLan.md -->)
--  Day47.  [QoS (Quality of Service) - Part 2](<!-- https://github.com/psaumur/CCNA/blob/main/Course_Notes/QoS_Quality_of_Service.md -->)
+-  Day44.  [NAT (Static) - Part 1](https://github.com/jcapn/CCNA-Prep/blob/main/JITL-Lectures/day44-nat-static-part-1.md)
+-  Day45.  [NAT (Dynamic) - Part 2](https://github.com/jcapn/CCNA-Prep/blob/main/JITL-Lectures/day45-nat-dynamic-part-2.md)
+-  Day46.  [QoS (Voice VLAN) - Part 1](https://github.com/jcapn/CCNA-Prep/blob/main/JITL-Lectures/day46-qos-voice-vlan-part-1.md)
+-  Day47.  [QoS (Quality of Service) - Part 2](https://github.com/jcapn/CCNA-Prep/blob/main/JITL-Lectures/day47-qos-quality-of-service-part-2.md)
 
 Network Security
--  Day48.  [Security Fundamentals](<!-- https://github.com/psaumur/CCNA/blob/main/Course_Notes/Security_Fundamentals.md -->)
--  Day49.  [Port Security](<!-- https://github.com/psaumur/CCNA/blob/main/Course_Notes/Port_Security.md -->)
--  Day50.  [DHCP Snooping](<!-- https://github.com/psaumur/CCNA/blob/main/Course_Notes/DHCP_Snooping.md -->)
--  Day51.  [Dynamic Arp Inspection](<!-- https://github.com/psaumur/CCNA/blob/main/Course_Notes/Dynamic_Arp_Inspection.md -->)
+-  Day48.  [Security Fundamentals](https://github.com/jcapn/CCNA-Prep/blob/main/JITL-Lectures/day48-security-fundamentals.md)
+-  Day49.  [Port Security](https://github.com/jcapn/CCNA-Prep/blob/main/JITL-Lectures/day49-port-security.md)
+-  Day50.  [DHCP Snooping](https://github.com/jcapn/CCNA-Prep/blob/main/JITL-Lectures/day50-dhcp-snooping.md)
+-  Day51.  [Dynamic Arp Inspection](https://github.com/jcapn/CCNA-Prep/blob/main/JITL-Lectures/day51-dynamic-arp-inspection.md)
 
 Network Architecture and Virtualization
--  Day52.  [LAN Architectures](<!-- https://github.com/psaumur/CCNA/blob/main/Course_Notes/LAN_Architectures.md -->)
--  Day53.  [WAN Architectures](<!-- https://github.com/psaumur/CCNA/blob/main/Course_Notes/WAN_Architectures.md -->)
--  Day54.  [Virtualization and Cloud - Part1](<!-- https://github.com/psaumur/CCNA/blob/main/Course_Notes/Virtualizations_and_Cloud_Part1.md -->)
--  Day54.  [Virtualization (Containers) - Part 2](<!-- https://github.com/psaumur/CCNA/blob/main/Course_Notes/Virtualization_Containers.md -->)
--  Day54.  [Virtualization (VRF) - Part3](<!-- https://github.com/psaumur/CCNA/blob/main/Course_Notes/Virtualization_VRF_Part3.md -->)
+-  Day52.  [LAN Architectures](https://github.com/jcapn/CCNA-Prep/blob/main/JITL-Lectures/day52-lan-architectures.md)
+-  Day53.  [WAN Architectures](https://github.com/jcapn/CCNA-Prep/blob/main/JITL-Lectures/day53-wan-architectures.md)
+-  Day54.  [Virtualization and Cloud - Part1](https://github.com/jcapn/CCNA-Prep/blob/main/JITL-Lectures/day54-virtualization-and-cloud-part-1.md)
+-  Day54.  [Virtualization (Containers) - Part 2](https://github.com/jcapn/CCNA-Prep/blob/main/JITL-Lectures/day54-virtualization-containers-part-2.md)
+-  Day54.  [Virtualization (VRF) - Part3](https://github.com/jcapn/CCNA-Prep/blob/main/JITL-Lectures/day54-virtualization-vrf-part-3.md)
 
 Wireless Fundamentals
--  Day55.  [Wireless Fundamentals](<!-- https://github.com/psaumur/CCNA/blob/main/Course_Notes/Wireless_Fundamentals.md -->)
--  Day56.  [Wireless Architectures](<!-- https://github.com/psaumur/CCNA/blob/main/Course_Notes/Wireless_Architecutres.md -->)
--  Day57.  [Wireless Security](<!-- https://github.com/psaumur/CCNA/blob/main/Course_Notes/Wireless_Security.md -->)
--  Day58.  [Wireless Configuration](<!-- https://github.com/psaumur/CCNA_Course_Notes/blob/main/Course_Notes/Wireless_Configuration.md -->)
+-  Day55.  [Wireless Fundamentals](https://github.com/jcapn/CCNA-Prep/blob/main/JITL-Lectures/day55-wireless-fundamentals.md)
+-  Day56.  [Wireless Architectures](https://github.com/jcapn/CCNA-Prep/blob/main/JITL-Lectures/day56-wireless-architectures.md)
+-  Day57.  [Wireless Security](https://github.com/jcapn/CCNA-Prep/blob/main/JITL-Lectures/day57-wireless-security.md)
+-  Day58.  [Wireless Configuration](https://github.com/jcapn/CCNA-Prep/blob/main/JITL-Lectures/day58-wireless-configuration.md)
 
 Network Automation
--  Day59.  [Introduction to Network Automation](Course_Notes/Introduction_to_Network_Automation.md)
--  Day60.  [JSON, XML, and YAML](<!-- https://github.com/psaumur/CCNA_Course_Notes/blob/main/Course_Notes/JSON_XML_YAML.md -->)
--  Day61.  [REST APIs](<!-- https://github.com/psaumur/CCNA_Course_Notes/blob/main/Course_Notes/REST_APIs.md -->)
--  Day62.  [SOFTWARE DEFINED NETWORKING](<!-- https://github.com/psaumur/CCNA_Course_Notes/blob/main/Course_Notes/Software_Defined_Networking.md -->)
--  Day63.  [ANSIBLE, PUPPET, and CHEF](<!-- https://github.com/psaumur/CCNA_Course_Notes/blob/main/Course_Notes/Ansible_Puppet_Chef.md -->)
+-  Day59.  [Introduction to Network Automation](https://github.com/jcapn/CCNA-Prep/blob/main/JITL-Lectures/day59-introduction-to-network-automation.md)
+-  Day60.  [JSON, XML, and YAML](https://github.com/jcapn/CCNA-Prep/blob/main/JITL-Lectures/day60-json-xml-and-yaml.md)
+-  Day61.  [REST APIs](https://github.com/jcapn/CCNA-Prep/blob/main/JITL-Lectures/day61-rest-apis.md)
+-  Day62.  [SOFTWARE DEFINED NETWORKING](https://github.com/jcapn/CCNA-Prep/blob/main/JITL-Lectures/day62-software-defined-networking.md)
+-  Day63.  [ANSIBLE, PUPPET, and CHEF](https://github.com/jcapn/CCNA-Prep/blob/main/JITL-Lectures/day63-ansible-puppet-and-chef.md)
 
 JITL CCNA Curriculum Mapped to Cisco Domains
 
